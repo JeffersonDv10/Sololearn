@@ -42,6 +42,7 @@ public class EjerciciosConcepto {
 
         /* Necesitas un programa para convertir días a segundos. El código dado toma la cantidad de días como entrada.
            10Complete el código para convertirlo a segundos y generar el resultado.*/
+        
         Scanner scanner1 = new Scanner(System.in);
         System.out.println("Introduce cantidad de dias");
         int days = scanner1.nextInt();
